@@ -1,2 +1,2 @@
 # GTA6
-A Frontend for the GTA6 game 
+Just a frontend for GTA6 game website
